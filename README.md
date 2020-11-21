@@ -1,4 +1,4 @@
 # Minimo
 website
 
-https://brokol1.github.io/Minimo/
+https://brodatsky.github.io/Minimo/
